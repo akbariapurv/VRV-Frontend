@@ -36,8 +36,8 @@ A responsive web application for managing users, roles, and permissions, built u
 ### **Steps**
 
 1. Clone the repository:
-   git clone <repository-url>
-   cd user-management-interface
+   git clone https://github.com/akbariapurv/VRV-Frontend.git
+   cd vrv-frontend
 
 2. Install dependencies:
 npm install
